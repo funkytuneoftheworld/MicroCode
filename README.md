@@ -10,16 +10,18 @@ MicroCode is a modern programming language designed for simplicity and efficienc
 
 ### Steps to Run on Windows
 
-1. **Clone the Repository**:
-    ```sh
-    git clone https://github.com/yourusername/MicroCodeBeta.git
-    cd MicroCodeBeta
-    ```
+1. **Download the ZIP File**:
+    - Go to the [releases](https://github.com/funkytuneoftheworld/MicroCodeBeta/releases) page on GitHub and download the latest release.
 
-2. **Compile and Run the Program**:
-    - Open Command Prompt and navigate to the directory where you cloned the repository:
+2. **Extract the ZIP File**:
+    - Right-click the downloaded `.zip` file and select "Extract All...".
+    - Choose a destination folder and click "Extract".
+
+3. **Compile and Run the Program**:
+    - Open Command Prompt.
+    - Navigate to the extracted folder:
       ```cmd
-      cd C:\Users\crous\Downloads\MicroCodeBetaBuild0.0.1
+      cd path\to\extracted\folder
       ```
     - Run the batch script with the desired command. For example, to spam "CARDINALS DA BEST BURD!" 100 times:
       ```cmd
